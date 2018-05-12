@@ -1,0 +1,35 @@
+_repo: Marjorie-Dean-High-School-Junior_36823
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chase, Josephine
+    aliases:
+    - Flower, Jessie Graham
+    - Lester, Pauline
+    - Thompson, Ames
+    - Gordon, Grace
+    deathdate: 1931
+    gutenberg_agent_id: '1598'
+    url: http://www.gutenberg.org/2009/agents/1598
+description: ''
+gutenberg_issued: '2011-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36823'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'High school students -- Juvenile fiction'
+- !lcsh 'Young women -- Social life and customs -- Juvenile fiction'
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcsh 'Interpersonal relations -- Juvenile fiction'
+- !lcsh 'Conflict (Psychology) -- Juvenile fiction'
+- !lcsh 'Families -- Juvenile fiction'
+title: Marjorie Dean, High School Junior
+url: http://www.gutenberg.org/ebooks/36823
